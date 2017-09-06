@@ -1,19 +1,19 @@
 {
   "name": "skill-template",
-  "version": "1.0.0",
   "description": "Template for a 'skill'",
+  "version": "0.1.0",
+  "author": "Andrew Harmel-Law <andrew@harmel-law.com and Greg Wolverson <gwolverson0509@gmail.com>"
+  "license": "CC-BY-NC-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourCompany-CHANGEME/skill-template-CHANGE-ME.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YourCompany-CHANGEME/skill-template-CHANGE-ME/issues"
+  },
+  "homepage": "https://github.com/YourCompany-CHANGE-ME/skill-template-CHANGE-ME#readme"
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Capgemini/skill-template.git"
-  },
-  "author": "Greg Wolverson <gwolverson0509@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Capgemini/skill-template/issues"
-  },
-  "homepage": "https://github.com/Capgemini/skill-template#readme"
+  }
 }
