@@ -33,5 +33,5 @@
 ## [ADVENTURER NOTES]
   * DELETE THIS - This is just a free text area where you can share the benefits of your experiences learning this skill so that those who follow you can benefit too.  If the skill has a chat-room or mailing list, contributors might decide to discuss notes there and then move them over here when they as a collective are happy with them
 
-#### [THE CAIRN]
+## [THE CAIRN]
   * DELETE THIS - This is an idea which you might want to use.  All adventurers who have completed this skill can list their name here, a bit like a cairn at the top of a mountain, upon which you place another stone when you reach the summit.
