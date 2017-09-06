@@ -2,7 +2,7 @@
   "name": "skill-template",
   "description": "Template for a 'skill'",
   "version": "0.1.0",
-  "author": "Andrew Harmel-Law <andrew@harmel-law.com and Greg Wolverson <gwolverson0509@gmail.com>"
+  "author": "Andrew Harmel-Law <andrew@harmel-law.com and Greg Wolverson <gwolverson0509@gmail.com>",
   "license": "CC-BY-NC-SA-4.0",
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/YourCompany-CHANGEME/skill-template-CHANGE-ME/issues"
   },
-  "homepage": "https://github.com/YourCompany-CHANGE-ME/skill-template-CHANGE-ME#readme"
+  "homepage": "https://github.com/YourCompany-CHANGE-ME/skill-template-CHANGE-ME#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
