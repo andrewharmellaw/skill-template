@@ -22,3 +22,19 @@ N.b. you're not obliged to submit PRs.  Feel free to keep your changes to yourse
 
 ## Editing Existing Skill Content
 The simplest way to contribute is to edit the existing README.md files. This is the thing which when used in a Quest, ends up as a skill-page.  To make an edit, find the README.md file you want to update in your forked copy, and click the "edit" pencil in the top right.  Then follow the instructions above.
+
+## An Important Note on Names, Namespaces, and Versions
+If there is one aim for this project it is to make it easy for people to share their curated learning journeys in a way that is simple for others to use, contribute to, and adapt to their own needs.  Central to achiving this are the following trinity of concepts:
+
+  * names
+  * namespaces
+  * versions
+
+Why central?  Hold on, I'll get developer-technical for a moment.
+
+Say your friend and you both have a Quest or Skill.  How can you tell if they are the same?  You could start by looking at their _names_.  Both are called "The Best Quest Ever".  That sounds like they are the same. But you remember that we've encouraged people to take their own copies of Quests and Skills and make them their own (called "Forking").  Has that happened?  To find out, you can look at the _namespace_ of the Quest or Skill.  That's made up of the two bits after the "github.com" in your browser address bar right now.
+
+
+This is why we're using the two complex things git and NPM.  They help us manage all this version / namespace complexity, and let us get on with the real task of creating and maintaining all the Quests and Skills themselves.
+
+Versions are very important to us.  Specifically we mean a number which uniquely identifies a specific version of your skill, and therefore differentiates it from 
