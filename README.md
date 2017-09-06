@@ -28,7 +28,7 @@
   * DELETE THIS - We plan to use [Mozilla's Open Badges](https://openbadges.org/) so people can quickly show which skills they have.  Just like LinkedIn skills, we're trusting you not to cheat.
 
 ## [EXPERIENCE SUGGESTIONS]
-  * DELETE THIS - This field might become another type of "Quest-Component" (just like this Skill is) in the future, but for now this is just a free text area where you can list the experiences you think are essential to have had in order to claim you have this skill.
+  * DELETE THIS - This field might become another type of "Quest-Component" (just like this Skill is) in the future, but for now this is just a free text area where you can list the experiences you think are essential to have had in order to claim you have this skill.
 
 ## [ADVENTURER NOTES]
   * DELETE THIS - This is just a free text area where you can share the benefits of your experiences learning this skill so that those who follow you can benefit too.  If the skill has a chat-room or mailing list, contributors might decide to discuss notes there and then move them over here when they as a collective are happy with them
